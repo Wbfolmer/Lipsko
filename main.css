@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+    background-color: aquamarine;
+}
+
+.o {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.74);
+    margin:0px;
+}
+
+.gowno {
+    text-align: center;
+    font-size: 25px;
+    color: #0e030308;
+}
+
+.marek {
+    float: left;
+    float: bottom;
+}
+
+.x img {
+    margin: 20px;
+}
+.nav{
+    position: center;
+    color: white;
+    background-color: black;
+}
+
